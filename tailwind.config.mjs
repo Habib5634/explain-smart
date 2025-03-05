@@ -16,7 +16,7 @@ export default {
         "thr":"#333333",
         "for":"#4F4F4F",
         "blueish":"#473939",
-        "yellow":"#979757",
+        "yellow":"#41532e",
         // "yellow":"#FDCF09",
         // "red":"#DE1F26",
         "blue":"#2B345B",
